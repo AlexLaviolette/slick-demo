@@ -1,0 +1,3 @@
+GET     /status                             controllers.StatusController.get
+
+POST    /auth                               controllers.AuthController.auth
